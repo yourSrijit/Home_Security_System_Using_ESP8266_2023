@@ -3,12 +3,12 @@
 #include <UniversalTelegramBot.h>
 
 
-const char* ssid = "Srijit2.4";// Enter your WIFI SSID
-const char* password = "9434978002";// Enter your WIFI Password
+const char* ssid = "";// Enter your WIFI SSID
+const char* password = "";// Enter your WIFI Password
 
 
-#define BOTtoken "6279484336:AAFwdFmfoAr0O5q_ZOFKlW7dcZkQQKon3CQ" // Enter the bottoken you got from botfather
-#define CHAT_ID "1052745341" // Enter your chatID you got from chatid bot
+#define BOTtoken "" // Enter the bottoken you got from botfather
+#define CHAT_ID "" // Enter your chatID you got from chatid bot
 
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
